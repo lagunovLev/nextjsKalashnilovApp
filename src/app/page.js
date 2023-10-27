@@ -10,10 +10,11 @@ export default function Home() {
 				<div className='bg-white flex row-auto justify-center'>
 					<div className='p-3 border-gray-500 border-solid border-2'>
 						<Image 
-					    	src={logo1Pic}
+					    	src={'https://sun9-20.userapi.com/impf/c846218/v846218988/1dfc0a/XijZ30liWso.jpg?size=275x201&quality=96&sign=84b530361f8ca3f1450c65981c399e27&type=album'}
 							alt="logo1"
 							className='pt-2'
-							//width={40}
+							width={40}
+							height={32}
 						/>
 					</div>
 					<div className='p-3 border-gray-500 border-solid border-2'>
